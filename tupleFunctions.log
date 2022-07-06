@@ -1,0 +1,11 @@
+INFO 2022-07-06 14:47:27,594 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-06 14:47:27,594 root  Answer : 
+INFO 2022-07-06 14:47:27,594 root  [(2, 3, 4, 5, 6), (3, 4, 5, 6, 7)]
+INFO 2022-07-06 14:48:27,181 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-06 14:48:27,181 root  Answer : 
+INFO 2022-07-06 14:48:27,181 root  []
+INFO 2022-07-06 14:48:27,181 root  []
+INFO 2022-07-06 14:48:57,913 root  Exercise 3 Question 5: Try to extract all the tuples entities
+INFO 2022-07-06 14:48:57,913 root  Answer : 
+INFO 2022-07-06 14:48:57,913 root  (2, 3, 4, 5, 6)
+INFO 2022-07-06 14:48:57,913 root  (3, 4, 5, 6, 7)

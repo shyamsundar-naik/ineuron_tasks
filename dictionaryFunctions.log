@@ -1,0 +1,42 @@
+INFO 2022-07-06 11:27:52,163 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-06 11:27:52,164 root  Answer : 
+INFO 2022-07-06 11:27:52,164 root  ['key1', 234]
+INFO 2022-07-06 11:27:52,164 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-06 11:27:52,164 root  Answer : 
+INFO 2022-07-06 11:27:52,164 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-06 11:27:52,164 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-06 11:27:52,164 root  Answer : 
+ERROR 2022-07-06 11:27:52,164 root  name 'l' is not defined
+INFO 2022-07-06 11:29:15,224 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-06 11:29:15,224 root  Answer : 
+INFO 2022-07-06 11:29:15,224 root  ['key1', 234]
+INFO 2022-07-06 11:29:15,224 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-06 11:29:15,224 root  Answer : 
+INFO 2022-07-06 11:29:15,224 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-06 11:29:15,224 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-06 11:29:15,224 root  Answer : 
+INFO 2022-07-06 11:29:15,224 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-06 12:37:59,905 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-06 12:37:59,906 root  Answer : 
+INFO 2022-07-06 12:37:59,906 root  ['key1', 234]
+INFO 2022-07-06 12:37:59,906 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-06 12:37:59,906 root  Answer : 
+INFO 2022-07-06 12:37:59,906 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-06 12:37:59,906 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-06 12:37:59,906 root  Answer : 
+INFO 2022-07-06 12:37:59,906 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-06 12:37:59,906 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-06 12:37:59,906 root  Answer : 
+ERROR 2022-07-06 12:37:59,906 root  name 'ex3List' is not defined
+INFO 2022-07-06 12:38:35,707 root  Exercise 2 Question 6: Try to list all the key in dict element avaible in list
+INFO 2022-07-06 12:38:35,708 root  Answer : 
+INFO 2022-07-06 12:38:35,708 root  ['key1', 234]
+INFO 2022-07-06 12:38:35,708 root  Exercise 2 Question 7: Try to extract all the value element form dict available in list
+INFO 2022-07-06 12:38:35,708 root  Answer : 
+INFO 2022-07-06 12:38:35,708 root  ['sudh', [23, 45, 656]]
+INFO 2022-07-06 12:38:35,708 root  Exercise 3 Question 4: Try to extract all the dict entities
+INFO 2022-07-06 12:38:35,708 root  Answer : 
+INFO 2022-07-06 12:38:35,708 root  {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO 2022-07-06 12:38:35,708 root  Exercise 3 Question 4: Try to find out number of keys in dict element
+INFO 2022-07-06 12:38:35,708 root  Answer : 
+INFO 2022-07-06 12:38:35,708 root  5

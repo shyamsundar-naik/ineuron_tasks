@@ -1,0 +1,29 @@
+INFO 2022-07-06 13:09:10,926 root  Exercise 1 Question 1: try to extract data from index one to index 30 with a jump of 3
+INFO 2022-07-06 13:09:10,926 root  Answer:
+INFO 2022-07-06 13:09:10,926 root  h   r tnrr
+INFO 2022-07-06 13:09:10,926 root  Exercise 1 Question 2: Try to reverse a string without using reverse string function
+INFO 2022-07-06 13:09:10,926 root  Answer:
+INFO 2022-07-06 13:09:10,926 root  noitcnuf sti dna gnirts nohtypGNINrael ma i dna ssalc gnimmargorP nohtyP tsriF yM si siht
+INFO 2022-07-06 13:09:10,926 root  Exercise 1 Question 3: Try to split a string after conversion of entire string in upper case
+INFO 2022-07-06 13:09:10,926 root  Answer:
+INFO 2022-07-06 13:09:10,926 root  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNINGPYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-06 13:09:10,927 root  Exercise 1 Question 4: Try to convert the whole string into lower case
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,927 root  THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNINGPYTHON STRING AND ITS FUNCTION
+INFO 2022-07-06 13:09:10,927 root  Exercise 1 Question 5: Try to capitalize the whole string
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,927 root  This is my first python programming class and i am learningpython string and its function
+INFO 2022-07-06 13:09:10,927 root  Exercise 1 Question 7: Try to give an example of expandtab
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,927 root  Good    Morning         Students
+INFO 2022-07-06 13:09:10,927 root  Exercise 1 Question 8: Give an example of strip, lstrip and rstrip
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,927 root  String after applying strip : iNeuron
+INFO 2022-07-06 13:09:10,927 root  String after applying lstrip: iNeuron        
+INFO 2022-07-06 13:09:10,927 root  String after applying rstrip:        iNeuron
+INFO 2022-07-06 13:09:10,927 root  Exercise 1 Question 9: Replace a string character by another character by taking your own example
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,927 root  I am luuking at muun
+INFO 2022-07-06 13:09:10,927 root  Exercise 3 Question 12: Try to filter out all the string data
+INFO 2022-07-06 13:09:10,927 root  Answer:
+INFO 2022-07-06 13:09:10,928 root  ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science ']

@@ -1,0 +1,147 @@
+INFO 2022-07-06 10:02:00,852 root  Exercise 2 Question 1: Try to reverse a list
+ERROR 2022-07-06 10:02:00,853 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:02:00,853 root  Exercise 2 Question 3: try to access 456
+ERROR 2022-07-06 10:02:00,853 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:02:00,853 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:02:00,853 root  Answer
+ERROR 2022-07-06 10:02:00,853 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:02:00,853 root  Exercise 2 Question 5: Try to extract "sudh"
+ERROR 2022-07-06 10:02:00,853 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:02:00,854 root  Exercise 3 Question 5: Try to extract all the list entity
+ERROR 2022-07-06 10:02:00,854 root  'listQuestions' object has no attribute 'ex3list'
+ERROR 2022-07-06 10:02:00,854 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:02:00,854 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:04:42,230 root  Exercise 2 Question 1: Try to reverse a list
+ERROR 2022-07-06 10:04:42,231 root  name 'ex2List' is not defined
+INFO 2022-07-06 10:04:42,231 root  Exercise 2 Question 3: try to access 456
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:04:42,231 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:04:42,231 root  Answer
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:04:42,231 root  Exercise 2 Question 5: Try to extract "sudh"
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'ex2List'
+INFO 2022-07-06 10:04:42,231 root  Exercise 3 Question 5: Try to extract all the list entity
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'ex3list'
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:04:42,231 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:06:17,038 root  Exercise 2 Question 1: Try to reverse a list
+ERROR 2022-07-06 10:06:17,039 root  can only concatenate str (not "list") to str
+INFO 2022-07-06 10:06:17,039 root  Exercise 2 Question 3: try to access 456
+ERROR 2022-07-06 10:06:17,039 root  can only concatenate str (not "int") to str
+INFO 2022-07-06 10:06:17,039 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:06:17,039 root  Answer
+INFO 2022-07-06 10:06:17,039 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:06:17,039 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:06:17,039 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:06:17,039 root  Answer : sudh
+INFO 2022-07-06 10:06:17,039 root  Exercise 3 Question 5: Try to extract all the list entity
+ERROR 2022-07-06 10:06:17,039 root  can only concatenate str (not "list") to str
+ERROR 2022-07-06 10:06:17,039 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:06:17,039 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:08:10,616 root  Exercise 2 Question 1: Try to reverse a list
+ERROR 2022-07-06 10:08:10,617 root  can only concatenate str (not "list") to str
+INFO 2022-07-06 10:08:10,617 root  Exercise 2 Question 3: try to access 456
+ERROR 2022-07-06 10:08:10,617 root  can only concatenate str (not "int") to str
+INFO 2022-07-06 10:08:10,617 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:08:10,617 root  Answer
+INFO 2022-07-06 10:08:10,617 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:08:10,617 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:08:10,617 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:08:10,617 root  Answer : sudh
+INFO 2022-07-06 10:08:10,617 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:08:10,617 root  Answer : 
+INFO 2022-07-06 10:08:10,617 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:08:10,617 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:08:10,617 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:11:23,210 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-06 10:11:23,210 root  Answer : 
+INFO 2022-07-06 10:11:23,210 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 10:11:23,210 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-06 10:11:23,210 root  Answer : 
+INFO 2022-07-06 10:11:23,210 root  456
+INFO 2022-07-06 10:11:23,210 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:11:23,210 root  Answer:
+INFO 2022-07-06 10:11:23,211 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:11:23,211 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:11:23,211 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:11:23,211 root  Answer : sudh
+INFO 2022-07-06 10:11:23,211 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:11:23,211 root  Answer : 
+INFO 2022-07-06 10:11:23,211 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:11:23,211 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:11:23,211 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:13:33,483 root  **************************************We are having new list formed*************************************
+INFO 2022-07-06 10:13:33,483 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-06 10:13:33,483 root  Answer : 
+INFO 2022-07-06 10:13:33,483 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 10:13:33,483 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-06 10:13:33,483 root  Answer : 
+INFO 2022-07-06 10:13:33,483 root  456
+INFO 2022-07-06 10:13:33,483 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:13:33,483 root  Answer:
+INFO 2022-07-06 10:13:33,483 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:13:33,483 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:13:33,483 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:13:33,483 root  Answer : sudh
+INFO 2022-07-06 10:13:33,483 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:13:33,483 root  Answer : 
+INFO 2022-07-06 10:13:33,483 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:13:33,483 root  'listQuestions' object has no attribute 'apendEnd'
+ERROR 2022-07-06 10:13:33,483 root  'listQuestions' object has no attribute 'apendEnd'
+INFO 2022-07-06 10:14:12,741 root  **************************************We are having new list formed*************************************
+INFO 2022-07-06 10:14:12,741 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-06 10:14:12,741 root  Answer : 
+INFO 2022-07-06 10:14:12,741 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 10:14:12,741 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-06 10:14:12,741 root  Answer : 
+INFO 2022-07-06 10:14:12,741 root  456
+INFO 2022-07-06 10:14:12,741 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:14:12,741 root  Answer:
+INFO 2022-07-06 10:14:12,741 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:14:12,741 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:14:12,741 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:14:12,741 root  Answer : sudh
+INFO 2022-07-06 10:14:12,741 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:14:12,742 root  Answer : 
+INFO 2022-07-06 10:14:12,742 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:14:12,743 root  listQuestions.appendEnd() missing 1 required positional argument: 'element'
+INFO 2022-07-06 10:15:52,469 root  **************************************We are having new list formed*************************************
+INFO 2022-07-06 10:15:52,469 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-06 10:15:52,469 root  Answer : 
+INFO 2022-07-06 10:15:52,469 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 10:15:52,469 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-06 10:15:52,469 root  Answer : 
+INFO 2022-07-06 10:15:52,469 root  456
+INFO 2022-07-06 10:15:52,469 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:15:52,470 root  Answer:
+INFO 2022-07-06 10:15:52,470 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:15:52,470 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:15:52,470 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:15:52,470 root  Answer : sudh
+INFO 2022-07-06 10:15:52,470 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:15:52,470 root  Answer : 
+INFO 2022-07-06 10:15:52,470 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:15:52,470 root  listQuestions.appendEnd() missing 1 required positional argument: 'element'
+INFO 2022-07-06 10:15:52,470 root  Exercise 5 Question 3: Try to write a function which is a replica of list append
+INFO 2022-07-06 10:15:52,470 root  Answer : 
+INFO 2022-07-06 10:15:52,470 root  [4, 5, 6, 12]
+INFO 2022-07-06 10:16:07,214 root  **************************************We are having new list formed*************************************
+INFO 2022-07-06 10:16:07,214 root  Exercise 2 Question 1: Try to reverse a list
+INFO 2022-07-06 10:16:07,214 root  Answer : 
+INFO 2022-07-06 10:16:07,214 root  [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO 2022-07-06 10:16:07,214 root  Exercise 2 Question 3: try to access 456
+INFO 2022-07-06 10:16:07,214 root  Answer : 
+INFO 2022-07-06 10:16:07,214 root  456
+INFO 2022-07-06 10:16:07,214 root  Exercise 2 Question 4: try to extract only a list collection form list l
+INFO 2022-07-06 10:16:07,214 root  Answer:
+INFO 2022-07-06 10:16:07,214 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-06 10:16:07,214 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-06 10:16:07,214 root  Exercise 2 Question 5: Try to extract "sudh"
+INFO 2022-07-06 10:16:07,214 root  Answer : sudh
+INFO 2022-07-06 10:16:07,214 root  Exercise 3 Question 5: Try to extract all the list entity
+INFO 2022-07-06 10:16:07,214 root  Answer : 
+INFO 2022-07-06 10:16:07,214 root  [[1, 2, 3, 4], ['ineuron', 'data science ']]
+ERROR 2022-07-06 10:16:07,214 root  listQuestions.appendEnd() missing 1 required positional argument: 'element'
+INFO 2022-07-06 10:16:07,214 root  Exercise 5 Question 3: Try to write a function which is a replica of list append
+INFO 2022-07-06 10:16:07,214 root  Answer : 
+INFO 2022-07-06 10:16:07,214 root  [4, 5, 6, 12]
